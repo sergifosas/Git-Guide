@@ -1,3 +1,4 @@
+# Small Git Guide
 
 #### New Repository
 
@@ -68,7 +69,7 @@ git pull origin main
 
 ````
 git fetch origin
-git checkout nombre-rama
+git checkout feat-branch
 ````
 
 #### Send to local some PR branch:
